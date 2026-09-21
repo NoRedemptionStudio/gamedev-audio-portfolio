@@ -6,7 +6,7 @@ Hi! I'm Illia, an Audio Producer & Technical Sound Designer. This repository hos
 
 ## 🔗 Quick Links
 - **Portfolio Hub:** [https://app.notion.com/p/Illia-Nykonenko-Audio-Producer-Technical-Sound-Designer-3da6e746abf880b09683f7e7575c1066?source=copy_link]
-- **YouTube Playlist:** [(https://www.youtube.com/watch?v=7fOc3IbiWpk&list=PLBiDYteZjkzk&pp=sAgC)]
+- **YouTube Playlist:** [https://www.youtube.com/playlist?list=PLBiDYteZjkzk]
 - **LinkedIn:** [https://www.linkedin.com/in/illia-nykonenko-4148432b7]
 
 ---
