@@ -5,7 +5,7 @@ Technical Sound Design portfolio for Unreal Engine 4 &amp; Wwise 2021. Features 
 Hi! I'm Illia, an Audio Producer & Technical Sound Designer. This repository hosts technical documentation, blueprint architectures, and implementation breakdowns for my game audio systems built with **Unreal Engine 4** and **Audiokinetic Wwise**.
 
 ## 🔗 Quick Links
-- **Portfolio Hub:** [Insert link to Notion/ArtStation hub later]
+- **Portfolio Hub:** [https://app.notion.com/p/Illia-Nykonenko-Audio-Producer-Technical-Sound-Designer-3da6e746abf880b09683f7e7575c1066?source=copy_link]
 - **YouTube Playlist:** [(https://www.youtube.com/watch?v=7fOc3IbiWpk&list=PLBiDYteZjkzk&pp=sAgC)]
 - **LinkedIn:** [https://www.linkedin.com/in/illia-nykonenko-4148432b7]
 
